@@ -300,6 +300,7 @@ PRODUCT_PACKAGES += \
     SettingsProviderSM6225 \
     SettingsSM6225 \
     SystemUISM6225 \
+    SimpleDeviceConfigSM6225 \
     TelephonySM6225 \
     WifiSM6225 \
     NotchBarKiller \
