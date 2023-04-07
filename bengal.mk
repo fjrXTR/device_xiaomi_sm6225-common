@@ -302,7 +302,8 @@ PRODUCT_PACKAGES += \
     SystemUISM6225 \
     TelephonySM6225 \
     WifiSM6225 \
-    NotchBarKiller
+    NotchBarKiller \
+    ApertureSM6225
 
 # Parts
 PRODUCT_PACKAGES += \
