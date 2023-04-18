@@ -409,10 +409,13 @@
     <string name="config_smartChargingResumeValue" translatable="false">0</string>
 
     <!-- Battery Health -->
+    <bool name="config_supportBatteryHealth">true</bool>
     <string name="config_batChargeCycle">/sys/class/power_supply/bms/cycle_count</string>
     <string name="config_batDesCap">/sys/class/power_supply/bms/charge_full_design</string>
     <string name="config_batCurCap">/sys/class/power_supply/bms/charge_full</string>
-    <bool name="config_supportBatteryHealth">true</bool>
+    <string name="config_batteryCalculatedCapacity">/sys/class/power_supply/bms/charge_full</string>
+    <string name="config_batteryDesignCapacity">/sys/class/power_supply/bms/charge_full_design</string>
+    <string name="config_batteryChargeCycles">/sys/class/power_supply/bms/cycle_count</string>
 
     <!-- Pocket Lock -->
     <bool name="config_pocketModeSupported">true</bool>
