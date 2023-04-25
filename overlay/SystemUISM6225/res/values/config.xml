@@ -58,4 +58,8 @@
      low powered state yet. -->
     <bool name="doze_long_press_uses_prox">false</bool>
 
+    <!-- Auth ripple animation duration
+         AOSP default is 1533 -->
+    <item name="auth_ripple_animation_duration" format="float" type="dimen">1533.0</item>
+
 </resources>
