@@ -62,4 +62,8 @@
          AOSP default is 1533 -->
     <item name="auth_ripple_animation_duration" format="float" type="dimen">1533.0</item>
 
+    <!-- Whether the combined qs shows in status bar when true, the combined qs will not be available
+         if set it to false  -->
+    <bool name="flag_combined_qs_headers">false</bool>
+
 </resources>
